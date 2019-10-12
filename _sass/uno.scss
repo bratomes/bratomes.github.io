@@ -1388,8 +1388,12 @@ nav {
 			border-color: #FFF;
 			opacity: 1; }
 
+cover-navigation--primary {
+	display: grid;
+}
+
 .navigation--social {
-	margin-left: 1.5em; }
+	display: grid; }
 	.navigation--social a {
 		padding: 6px 8px 6px 9px; }
 		.navigation--social a .label {
