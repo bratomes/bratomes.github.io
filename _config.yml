@@ -1,6 +1,5 @@
 # Site settings
 title: Bruno Soares
-description: 'Web developer and system administrator. Python lover. Dota 2 player.'
 url: 'http://bratomes.com.br'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -10,7 +9,6 @@ author:
   name: 'Bruno Soares'
   email: brunomsss@gmail.com
   twitter_username: bratomes
-  # facebook_username: joshgerdes
   github_username:  bratomes
   linkedin_username:  bratomes
 
