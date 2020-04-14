@@ -6,6 +6,11 @@
 
 /* Modifications */
 
+@font-face {
+  font-family: "Noto Sans";
+  src: url(../fonts/noto-sans/NotoSans-Regular.ttf) format("truetype");
+}
+
 pre.highlight,
 .highlight pre {
   padding: 10px;

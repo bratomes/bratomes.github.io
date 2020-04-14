@@ -925,7 +925,7 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Raleway", sans-serif;
+	font-family: "Noto Sans", sans-serif;
 	font-size: 1em;
 	color: #666666; }
 
@@ -953,7 +953,7 @@ h5,
 h5 {
 	margin-top: .8em;
 	margin-bottom: .4em;
-	font-family: "Roboto Slab", serif;
+	font-family: "Noto Sans", sans-serif;
 	font-weight: lighter;
 	color: #333333;
 	-webkit-font-smoothing: antialiased; }
@@ -1192,7 +1192,7 @@ hr {
 .panel-title {
 	margin: 0 0 5px 0;
 	font-size: 2.5em;
-	letter-spacing: 4px;
+	// letter-spacing: 4px;
 	color: #FFF; }
 
 .panel-subtitle {
