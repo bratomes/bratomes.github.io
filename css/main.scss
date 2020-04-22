@@ -12,7 +12,7 @@
 }
 
 .panel-main {
-  height: 90%;
+  height: 85%;
 }
 
 .panel-navigation {
@@ -21,6 +21,12 @@
   text-align: center;
   width: 100%;
   z-index: 99999;
+}
+
+.panel-cover__divider--navigation {
+  width: 100%;
+  margin: 10px 0;
+  border-top: 1px solid rgba(255,255,255,0.14);
 }
 
 .navigation__item a {
