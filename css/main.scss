@@ -11,6 +11,22 @@
   src: url(../fonts/noto-sans/NotoSans-Regular.ttf) format("truetype");
 }
 
+.panel-main {
+  height: 90%;
+}
+
+.panel-navigation {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  z-index: 99999;
+}
+
+.navigation__item a {
+  border: none;
+}
+
 pre.highlight,
 .highlight pre {
   padding: 10px;
