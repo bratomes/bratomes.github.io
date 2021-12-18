@@ -5,4 +5,6 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+My name is Bruno Soares, I'm an enthusiastic in development, using mostly Python programming language. I'm a Python/Django web developer.
+
+In other IT experiences, I acted as a system administrator, installing and managing servers and services.
