@@ -1,7 +1,7 @@
 ---
-title: Contributions
+title: Contribuições
 icon: fas fa-puzzle-piece
-order: 5
+order: 3
 ---
 
 
