@@ -1,6 +1,6 @@
 ---
 title: Contributions
-icon: fas fa-info-circle
+icon: fas fa-puzzle-piece
 order: 5
 ---
 
