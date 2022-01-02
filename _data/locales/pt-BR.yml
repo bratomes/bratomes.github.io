@@ -1,0 +1,36 @@
+# The layout text of site
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Início
+  categories: Categorias
+  about: Sobre
+  contributions: Contribuições
+
+# the text displayed in the search bar & search results
+search:
+  hint: Pesquisar
+  cancel: Cancelar
+  no_results: Oops! Nenhum resultado encontrado.
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Esta postagem está licenciada sob a licença :LICENSE_NAME pelo autor.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Alguns direitos reservados.
+  verbose: >-
+    Except where otherwise noted, the blog posts on this site are licensed
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+
+meta: Desenvolvida por :PLATFORM com o tema :THEME.
+
+not_found:
+  statment: Desculpe, perdemos essa URL ou ela está apontando para uma página que não existe.
+  hint_template: :HEAD_BAK para tentar encontrar novamente, ou tente fazer uma busca no campo de pesquisa.
+  head_back: Volte para a página inicial
+  archives_page: Archives page
